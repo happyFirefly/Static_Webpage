@@ -1,0 +1,130 @@
+body{
+  background-image: linear-gradient(to right,#cd0a0a,#a20a0a);
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  font-size: 4.5em;
+}
+
+.nav-bar{
+  position: relative;
+  background-image: linear-gradient(to right,#e5e5e5,#dddddd);
+  height:5em;
+  color: black;
+  text-align: right;
+  font-family: 'Playball', cursive;
+}
+.header{
+  width: 50%;
+  margin: 0;
+  margin-left: 1.5em;
+  text-align: left;
+  font-size:3em;
+  padding: .25em;
+  height: 0;
+  font-weight: bold;
+}
+a{
+  padding: 1em;
+  color: black;
+  font-family: 'Castoro', serif;
+  font-size:1.12em;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover{
+  background-image: linear-gradient(to right,#cd0a0a,#a20a0a);
+  opacity: 0.5;
+  border-radius: 6%;
+  color: white;
+  font-weight: bolder;
+}
+.bell{
+  position: absolute;
+  width: 5em;
+  left:0;
+  transform: rotate(30deg);
+  bottom: .1em;
+}
+.christmas{
+  position: relative;
+  font-family: 'Pacifico', cursive;
+  height: 68em;
+}
+.three-socks{
+  position: absolute;
+  width: 49%;
+  top:4em;
+  border: .5em solid black;
+  border-radius: 5%;
+  left:0;
+}
+.desc-one{
+  width: 45%;
+  position:absolute;
+  right: 4.7em;
+  top:6em;
+  background-image: linear-gradient(to right,#fbf7f0,#cdc9c3);
+  height: 25em;
+  border-style: solid;
+  border-left: 0 none;
+  border-radius: 0 15% 15% 0;
+}
+.desc-text{
+  padding: 10%;
+  font-size: 1.5em;
+}
+.desc-two{
+  width: 45%;
+  position:absolute;
+  left: 5em;
+  top:37.5em;
+  background-image: linear-gradient(to left,#fbf7f0,#cdc9c3);
+  height: 25em;
+  border-style: solid;
+  border-right: 0 none;
+  border-radius: 15% 0 0 15% ;
+}
+.des-txt{
+  padding: 10%;
+  font-size: 1.5em;
+}
+.misc-chrismtas{
+  position: absolute;
+  top: 35em;
+  right: 0;
+  border: .355em solid black;
+  border-radius: 5%;
+  width: 49%;
+}
+.clouds{
+  font-family: 'Texturina', serif;
+  color: black;
+  position: relative;
+  background-color: white;
+  height: 50em;
+}
+.cloud-one{
+  margin: 3%;
+  width: 60%;
+  border-radius: 5%;
+  border: .255em solid black;
+}
+.slide-show{
+  padding: 5% 3%;
+  background-color: #aa3a3a;
+}
+.image-slide{
+  width: 72%;
+  border: .255em solid black;
+}
+.footer{
+  padding-top: 5em;
+  background-color: #f8efd4;
+  height: 12em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bolder;
+  line-height: 0;
+}

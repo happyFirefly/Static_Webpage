@@ -1,0 +1,302 @@
+body{
+   margin: 0;
+   font-family: 'Cookie', cursive;
+   color: #790c5a ;
+   text-align: center;
+}
+h1{
+  margin: 0;
+  padding-top: 2em;
+  font-size: 4em;
+  line-height: 1;
+  color: white;
+  padding-left: 6em;
+  font-family: 'Pacifico', cursive;
+}
+.h1-one{
+  padding-top: 0;
+  padding-left: 14em;
+}
+.h2-one{
+  padding-top: 0;
+  margin-top: 1em;
+  padding-left: 10em;
+}
+.top-container{
+  background-color: #52188c;
+  height: 40.5em;
+  position: relative;
+  background-image: linear-gradient(to right , #52188c , #4a1884);
+}
+.cake-one{
+  position: absolute;
+  height: 38em;
+  width: 41em;
+  left: 0.1%;
+  bottom: 1%;
+  border-radius: 20px;
+  border: 5px solid white;
+}
+.nav-bar{
+  text-align: right;
+  font-family: 'Castoro', serif;
+  background-color: #572590;
+  color: white;
+  padding: 1em  ;
+
+}
+.first-cake{
+  position: absolute;
+  left:10em;
+  width: 2.5em;
+  top:1.5%;
+
+}
+p{
+  text-align: left;
+  margin: 0;
+  font-size:1.5em;
+  height: 0;
+  font-family: 'Lobster', cursive;
+}
+a{
+  padding: 7px;
+  font-family: cursive;
+  color: white;
+  text-decoration: none;
+  margin: 5px;
+
+}
+a:hover{
+  background-color: white;
+  opacity: 0.5;
+  color: #790c5a;
+  font-weight: bold;
+}
+.lipstick-image{
+  position: absolute;
+  height: 9em;
+  right: 5em;
+  bottom:12em;
+}
+.lip-gloss{
+  position: absolute;
+  height: 8em;
+  right: 0;
+  bottom:12.5em;
+}
+.heading{
+  text-align: center;
+  font-size:2em;
+}
+.hello-image{
+  position: absolute;
+  width: 40em;
+  right: 0;
+  margin-top: 1.8em;
+  border-radius: 25px;
+}
+.second-container{
+  text-align: left;
+  height: 35em;
+  position: relative;
+}
+.second-heading{
+  color: black;
+  font-size: 4em;
+  padding: 0;
+  padding-left: 2.2em;
+  font-family: 'Cookie', cursive;
+}
+h2{
+  padding-left: 3.6em;
+  padding-top: 13%;
+  font-size: 2.5em;
+  margin: 0;
+}
+.heart{
+  position: absolute;
+  width: 4%;
+  left: 9em;
+  padding-top: .5em;
+}
+.sun{
+  position: absolute;
+  width: 5%;
+  left: 13em;
+}
+.bell{
+  position: absolute;
+  width: 4%;
+  padding-top: .5em;
+  left:18em;
+}
+.submit{
+  position: absolute;
+  top: 5em;
+}
+
+.link-arrow{
+  width: 4em;
+  left:3em;
+  position: absolute;
+  top: 23em;
+}
+.click{
+  position: absolute;
+  width: 8%;
+  top: 23em;
+  left: 8em;
+}
+.left-arrow{
+  position: absolute;
+  width: 6%;
+  left: 22em;
+}
+.third-container{
+  margin-top: 3.5em;
+  position: relative;
+  height: 64em;
+}
+.number-two{
+  top:9em;
+  position: absolute;
+  right: 15em;
+}
+.number-three{
+  top:9em;
+  position: absolute;
+  right: 7em;
+}
+.lucky-charm{
+  margin: 0;
+  position: absolute;
+  right : 9em;
+  top:19em;
+}
+.lucky-text{
+  text-align: center;
+  font-weight: bolder;
+  font-family: 'Texturina', serif;
+  position: absolute;
+  color: black;
+  right: 5em;
+  bottom:21.5em;
+}
+.mybutton{
+  background-image: linear-gradient(#fe91ca,#be5683);
+  height:3em;
+  width: 15em;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'Texturina', serif;
+  border-radius: 15px;
+}
+
+.angry-cake{
+  position: absolute;
+  left: 0;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  height: 35em;
+}
+.priyal-two{
+  position: absolute;
+  width: 15em;
+  top: 40em;
+  right:0;
+}
+.priyal-three{
+  position: absolute;
+  width: 15em;
+  top:40em;
+  right:16.5em;
+}
+.priyal-four{
+  position: absolute;
+  width: 15em;
+  top:40em;
+  right:33.5em;
+}
+.priyal-five{
+  position: absolute;
+  width: 15em;
+  top:40em;
+  right:50em;
+}
+.priyal-six{
+  position: absolute;
+  width: 15em;
+  top:40em;
+  right:66em;
+}
+.fourth-container{
+  background-color: #ea86b6;
+  height: 50em;
+  position: relative;
+  padding-top: 5em;
+}
+.intro{
+  margin-bottom: .5em;
+  padding:0;
+  padding-left: 1em;
+  font-size: 5em;
+  color: black;
+  text-align: left;
+  font-family: 'Pacifico', cursive;
+}
+li{
+  width:50%;
+  text-align: left;
+  font-size: 4em;
+  padding-left: 1em;
+  margin: 0;
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+}
+h3{
+  margin: 0;
+  font-size: 4em;
+  text-align: left;
+  padding-left: 1em;
+}
+.priyal-intro{
+  position: absolute;
+  right: 3em;
+  top:3em;
+  width: 30em;
+  height: 43em;
+  border: .5em solid black;
+  border-radius: 10%;
+}
+.last{
+  margin-top: .5em;
+}
+.footer{
+  background-color: #bc658d;
+  height: 12em;
+  position: relative;
+  margin: 0;
+  color: white;
+  font-family: 'Averia Serif Libre', cursive;
+}
+h4{
+  width: 50%;
+  margin: 0;
+  padding-top: 3em;
+  padding-left: 20em;
+}
+h5{
+  width: 50%;
+  padding-left: 25em;
+}
+
+.girl{
+  margin: 0;
+  position: absolute;
+  left:25%;
+  top:15%;
+}

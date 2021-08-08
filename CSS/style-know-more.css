@@ -1,0 +1,398 @@
+body{
+  background-image: repeating-linear-gradient(to right, #cc0e74,#b5076b ,#9d0191,#621055);
+}
+.container-fluid{
+
+  padding: 3% 3%;
+}
+.navbar-brand{
+    color: #f1d4d4;
+    font-weight: bolder;
+    font-size: 2.5em;
+    font-family: 'Satisfy', cursive;
+}
+.nav-link{
+  color: #f1d4d4;
+    font-size: 1.75em;
+    font-weight: bolder;
+  font-family: 'Satisfy', cursive;
+}
+.nav-item{
+  padding: 0 1rem;
+}
+.collage{
+  position: relative;
+  height: 64em;
+}
+.swati{
+  position: absolute;
+  left: 0;
+  height: 50%;
+}
+.first_party{
+  position: absolute;
+  right: 0;
+  width: 31.5%;
+}
+.second-party{
+  position: absolute;
+  right: 24em;
+  width: 25%;
+  z-index: -1;
+}
+.akanksha-party{
+  position: absolute;
+  left: 14.75em;
+  width: 30%;
+}
+.ganesh-puja{
+  position: absolute;
+  top: 20%;
+  left: 14.75em;
+  width: 30%;
+}
+.study-room{
+  position: absolute;
+  width: 15%;
+  right: 0;
+  top:29%;
+}
+.fresher-one{
+  position: absolute;
+  width: 20%;
+  top: 29%;
+  right: 15%;
+  z-index: -1;
+}
+.fresher-two{
+  position: absolute;
+  width: 20%;
+  top: 38%;
+  left: 18%;
+
+}
+.roommates{
+  position: absolute;
+  width: 25%;
+  right: 0  ;
+  top: 59.5%;
+  z-index: -1;
+}
+.first-year{
+  position: absolute;
+  width: 30%;
+  left:0;
+  top: 46%;
+    z-index: -1;
+}
+.diwali{
+  position: absolute;
+  width: 23%;
+  left:38%;
+  top: 40.5%;
+}
+.aj-priyal{
+  position: absolute;
+  width: 15%;
+  left:0;
+  top: 66.5%;
+}
+.priyal{
+  position: absolute;
+  width: 25%;
+  left:15%;
+  top: 61.5%;
+  z-index: -1;
+}
+.priyal-two{
+  position: absolute;
+  width: 15%;
+  left:15%;
+  top: 78.5%;
+}
+.priyal-three{
+  position: absolute;
+  width: 17%;
+  right:25%;
+  top: 61%;
+}
+.priyal-four{
+  position: absolute;
+  width: 13%;
+  right:32%;
+  top: 40%;
+}
+.priyal-five{
+  position: absolute;
+  width: 18.5%;
+  left:29.7%;
+  top: 78%;
+}
+.priyal-six{
+  position: absolute;
+  width: 15%;
+  right: 0;
+  top: 80.5%;
+}
+.priyal-seven{
+  position: absolute;
+  width: 25%;
+  right: 15%;
+  top: 80.5%;
+}
+.priyal-eight{
+  position: absolute;
+  width: 25%;
+  left:0;
+  top: 99%;
+}
+.priyal-nine{
+  position: absolute;
+  width: 15%;
+  right: 40%;
+  top: 70.5%;
+}
+.priyal-ten{
+  position: absolute;
+  width: 15%;
+  left: 25%;
+  top: 102.5%;
+}
+.priyal-eleven{
+  position: absolute;
+  width: 15%;
+  left: 48%;
+  top: 95%;
+}
+.priyal-twelve{
+  position: absolute;
+  width: 25%;
+  right:0;
+  top: 103%;
+}
+.priyal-thirteen{
+  position: absolute;
+  width: 16%;
+  right:22%;
+  top: 103%;
+}
+.priyal-fourteen{
+  position: absolute;
+  width: 15%;
+  right:45%;
+  top: 108%;
+  z-index: -1;
+}
+.priyal-fifteen{
+  position: absolute;
+  width: 15%;
+  top: 120%;
+}
+.priyal-sixteen{
+  position: absolute;
+  width: 15%;
+  top: 122%;
+  left: 15%;
+}
+.priyal-seventeen{
+  position: absolute;
+  width: 15%;
+  top: 127%;
+  left: 30%;
+}
+.priyal-eighteen{
+  position: absolute;
+  width: 13%;
+  top: 119.5%;
+  right:33%;
+}
+.image-one{
+  position: absolute;
+  width: 13%;
+  top: 125%;
+  right:0;
+}
+.image-two{
+  position: absolute;
+  width: 13%;
+  top: 125%;
+  right:13%;
+}
+.image-three{
+  position: absolute;
+  width: 13%;
+  top: 126%;
+  z-index: -1;
+  right:22%;
+}
+.image-four{
+  position: absolute;
+  width: 23%;
+  top: 144%;
+}
+.image-five{
+  position: absolute;
+  width: 13%;
+  top: 144%;
+  z-index: -1;
+  left: 23%;
+}
+.image-six{
+  position: absolute;
+  width: 20%;
+  top: 144%;
+  right: 26%;
+}
+.image-seven{
+  position: absolute;
+  width: 18%;
+  top: 144%;
+  left: 36%;
+}
+.image-eight{
+  position: absolute;
+  width: 13%;
+  top: 132%;
+  left: 41%;
+}
+.image-nine{
+  position: absolute;
+  width: 13%;
+  top: 146%;
+  right: 0;
+}
+.image-ten{
+  position: absolute;
+  width: 13%;
+  top: 146%;
+  right: 13%;
+}
+.pic-one{
+  position: absolute;
+  width: 20%;
+  top: 162%;
+  right: 26%;
+}
+.pic-two{
+  position: absolute;
+  width: 18%;
+  top: 165%;
+}
+.pic-three{
+  position: absolute;
+  width: 17%;
+  top: 166%;
+right: 0;
+}
+.pic-four{
+  position: absolute;
+  width: 15%;
+  top: 165%;
+left: 18%;
+}
+.pic-five{
+  position: absolute;
+  width: 11%;
+  top: 166%;
+right: 16%;
+}
+.pic-six{
+  position: absolute;
+  width: 22%;
+  top: 165.5%;
+left: 33%;
+}
+.pic-seven{
+  position: absolute;
+  width: 18%;
+  top: 180%;
+right: 27%;
+}
+.pic-eight{
+  position: absolute;
+  width: 13%;
+  top: 184%;
+right: 15%;
+}
+.pic-nine{
+  position: absolute;
+  width: 13%;
+  top: 188%;
+}
+.pic-ten{
+  position: absolute;
+  width: 13%;
+  top: 188%;
+  left: 13%;
+}
+.p-one{
+  position: absolute;
+  width: 25%;
+  top: 185.5%;
+  left: 26%;
+}
+.p-two{
+  position: absolute;
+  width: 11%;
+  top: 185.5%;
+  left: 45%;
+}
+.p-three{
+  position: absolute;
+  width: 15%;
+  top: 189.5%;
+  right: 0;
+}
+.p-four{
+  position: absolute;
+  width: 13%;
+  top: 200.5%;
+  right: 15%;
+}
+.p-five{
+  position: absolute;
+  width: 13%;
+  top: 202.5%;
+  right: 28%;
+}
+.p-six{
+  position: absolute;
+  width: 13%;
+  top: 199.5%;
+  right: 41%;
+}
+.p-seven{
+  position: absolute;
+  width: 13%;
+  top: 207.5%;
+  right: 53%;
+}
+.p-eight{
+  position: absolute;
+  width: 23%;
+  top: 207.5%;
+}
+.p-nine{
+  position: absolute;
+  width: 14%;
+  top: 207.5%;
+  left: 21%;
+}
+.p-ten{
+  position: absolute;
+  width: 18%;
+  top: 212.25%;
+  right: 0;
+}
+.p-11{
+  position: absolute;
+  width: 17%;
+  top: 213.25%;
+  right: 18%;
+}
+.p-12{
+  position: absolute;
+  width: 18%;
+  top: 212.25%;
+  right: 35%;
+}
